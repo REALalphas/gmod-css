@@ -1,3 +1,2 @@
-# cssforgm
-Fast way to install CSS Content to Garry's Mod!
+# Fast way to install CSS Content to Garry's Mod!
 ![]()
