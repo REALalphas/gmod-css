@@ -9,6 +9,6 @@
  - ***Clear zipped content!***
  - ***No viruses and miners!***
  - ***Original CSS Content size - 1.38GB /// CFG CSS Content size - 0.51GB***
- - ***Fast install - [Tests be made on my PC]***
+ - ***Fast install - [Tests be made on my PC]***                                                              
  ![](https://i.imgur.com/s0npqf8.png)
  ![](https://i.imgur.com/PM3BNAz.png)
