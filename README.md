@@ -2,7 +2,7 @@
 # [Latest Release](https://github.com/AlphaS-code/css/releases/latest)
 #### [Download (github.com)](https://github.com/AlphaS-code/css/releases/download/1.2/cssforgm1.2.exe)
 #### [Download (drive.google.com) (Recommended)](https://drive.google.com/file/d/16SO1YveFr-0YzAEgp_mgupEFzaxFJxwF/view?usp=sharing)
-#### [Download (yadi.sk)](https://yadi.sk/d/OPgoAr66g3zzaw)
+#### [Download (yadi.sk)](https://yadi.sk/d/7vJaRYjI2Bmckg)
 # Benefits
    - ***Easy to install!***
    - ***Simple and better interface!***
