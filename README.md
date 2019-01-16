@@ -1,8 +1,8 @@
 ![](https://i.imgur.com/nAP3We3.png)
 # [Latest Release](https://github.com/AlphaS-code/css/releases/latest)
 #### [Download (github.com)](https://github.com/AlphaS-code/css/releases/download/1.2/cssforgm1.2.exe)
-#### [Download (drive.google.com) (Recommended)](https://drive.google.com/open?id=16SO1YveFr-0YzAEgp_mgupEFzaxFJxwF)
-#### [Download (yadi.sk)](https://yadi.sk/d/7vJaRYjI2Bmckg)
+#### [Download (drive.google.com) (Recommended)](https://drive.google.com/file/d/16SO1YveFr-0YzAEgp_mgupEFzaxFJxwF/view?usp=sharing)
+#### [Download (yadi.sk)](https://yadi.sk/d/OPgoAr66g3zzaw)
 # Benefits
    - ***Easy to install!***
    - ***Simple and better interface!***
