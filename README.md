@@ -6,8 +6,8 @@
 
 ## Benefits
    - ***Easy to install***
-   - ***Simple and better interface***
-   - ***Clear zipped content***
-   - ***No viruses and miners***
-   - ***Original CSS Content - 1.38GB /// CSS Content Installer - 0.51GB***
-   - ***Fast install - [37.502 seconds]**
+   - **Simple and better interface**
+   - **Clear zipped content**
+   - **No viruses and miners**
+   - **Original CSS Content - 1.38GB /// CSS Content Installer - 0.51GB**
+   - **Fast install - [37.502 seconds]**
