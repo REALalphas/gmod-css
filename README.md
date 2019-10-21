@@ -10,11 +10,4 @@
    - ***Clear zipped content***
    - ***No viruses and miners***
    - ***Original CSS Content - 1.38GB /// CSS Content Installer - 0.51GB***
-   - ***Fast install - [37.502 seconds]***
-
-## Instruction
-   1 **Download installer**
-   
-   2 **Open it**
-   
-   3 **In Process**
+   - ***Fast install - [37.502 seconds]**
