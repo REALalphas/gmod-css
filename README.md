@@ -1,4 +1,4 @@
-![](https://i.imgur.com/nAP3We3.png)
+![](https://i.imgur.com/JAEBzIk.png)
 
 ### [Download (drive.google.com) (Recommended)](https://drive.google.com/file/d/16SO1YveFr-0YzAEgp_mgupEFzaxFJxwF/view?usp=sharing)
 ### [Download (github.com)](https://github.com/AlphaS-code/css/releases/download/1.2/cssforgm1.2.exe)
