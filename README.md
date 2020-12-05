@@ -1,1 +1,1 @@
-![](https://i.imgur.com/JAEBzIk.png)
+### Контент для Garry's Mod
